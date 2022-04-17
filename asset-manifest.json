@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/helpu/static/css/main.428771a5.css",
+    "main.js": "/helpu/static/js/main.f2cdf5f1.js",
+    "index.html": "/helpu/index.html",
+    "main.428771a5.css.map": "/helpu/static/css/main.428771a5.css.map",
+    "main.f2cdf5f1.js.map": "/helpu/static/js/main.f2cdf5f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428771a5.css",
+    "static/js/main.f2cdf5f1.js"
+  ]
+}
